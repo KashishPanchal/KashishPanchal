@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Computer%20Engineering%20student%20passionate%20about%20Web%20Development%2C%20Python%20%26%20AI%2FML.;I%20build%20projects%2C%20solve%20problems%2C%20and%20learn%20by%20creating." alt="Typing headlines" />
 </p>
-
+ 
 ### 🚀 About Me
 
 Computer Engineering student passionate about Web Development, Python, AI/ML, and building real-world projects. I enjoy turning ideas into practical applications and continuously learning new technologies.
